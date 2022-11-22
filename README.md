@@ -1,4 +1,4 @@
-# Team-view-v1
+# TeamView
 
 TeamView is a video chat app that makes it easy to group up with people you want to meet.
 
