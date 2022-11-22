@@ -6,7 +6,7 @@ TeamView is a video chat app that makes it easy to group up with people you want
 
 This app is build using NodeJS, Socket.io, and Peerjs (WebRTC)
 
-## How to run the project?
+## Getting Started
 
 1. Clone this repository in your local system.
 2. Open the command prompt from your project directory and run the command `npm install`.
